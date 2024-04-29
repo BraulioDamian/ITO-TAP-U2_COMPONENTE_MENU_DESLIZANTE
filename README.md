@@ -122,7 +122,7 @@ Este codigo se tendra que pegar en el metodo main y conigurara de la siguiente m
 
 ## Funcionamiento 
 
-Video de como Funciona este componente Visual ya integrado
+Video de como Funciona este componente Visual ya integrado -> [VIDEO](https://youtu.be/YaQITeGcbVc)
 
 
 ## Autores
