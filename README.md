@@ -127,5 +127,5 @@ Video de como Funciona este componente Visual ya integrado
 
 ## Autores
 
-Braulio Antonio Damian Gonzalez - Estudiante del ITO - [Contacto](JennyDiego (github.com))
+Braulio Antonio Damian Gonzalez - Estudiante del ITO - [Contacto](https://github.com/BraulioDamian)
 Luis Enrique Rodrigez Antonio - Estudiante del ITO - [Contacto](JesusAngelMM (github.com))
