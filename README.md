@@ -105,3 +105,27 @@ Gestiona la animación del menú desplegable.
 ![image](https://github.com/BraulioDamian/ITO-TAP-U2_COMPONENTE_MENU_DESLIZANTE/assets/142832691/3d80dd0e-1a35-4765-81ac-632826fd3bbc)
 
 6.- Este componenete ya trae incluida dentro de sus propiedades, el poder cambiar el color del texto, cambiar el color de todo el menu, cambiar el color cuando se despliega y se pliega las distancias que hay entre cada opcion.
+
+#### Recomendaciones
+
+Para poder controlar las acciones que hara el panel se necesita del siguiente codigo:
+
+public NewJFrame1() { initComponents();
+
+    menuPlegableComponent1.addJLabel2MouseListener(new MouseAdapter() {
+    @Override
+        public void mouseClicked(MouseEvent e) {
+            System.out.println("Label 2 presionado");
+        }
+    });
+Este codigo se tendra que pegar en el metodo main y conigurara de la siguiente manera. El menu contiene 6 Labels que sugerimos modificar dependiendo de las necesidades, el primero es el que contiene el texto "Inicio" llamado 'JLabel2' para controlar lo que realiza este label al hacer click sobre el necesitamos del codigo proporcionado anteriormente, y modificaremos el contenido que hay dentro del metodo llamado mouseClicked por la accion que queremos que se realice, en este caso al ser un ejemplo solo imprimira un texto.
+
+## Funcionamiento 
+
+Video de como Funciona este componente Visual ya integrado
+
+
+## Autores
+
+Braulio Antonio Damian Gonzalez - Estudiante del ITO - [Contacto](JennyDiego (github.com))
+Luis Enrique Rodrigez Antonio - Estudiante del ITO - [Contacto](JesusAngelMM (github.com))
