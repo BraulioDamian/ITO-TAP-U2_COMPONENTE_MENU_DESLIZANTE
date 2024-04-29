@@ -1,4 +1,5 @@
 Descripción
+
 Este componente nos permite hacer uso de opciones múltiples opciones. Fue pensado para aplicaciones que buscan mejorar su interfaz y diseño, esta implementado en java Swing, puede ser manejado a la conveniencia.
 Este compoenente esta desarrollado en clases MEnuPlegable y Panel que hace que nuestra programación y uso sea mas eficiente y rápido.
 Usos
